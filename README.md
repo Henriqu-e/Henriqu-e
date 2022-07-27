@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao perfil do Henriqu-e 😁
+## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
    <a href="https://github.com/Henriqu-e">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hneriqu-e&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriqu-e&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqu-e&layout=compact&langs_count=6&theme=dracula"/>
 
 </div>
